@@ -14,13 +14,26 @@ The Login Page Project is a simple, responsive web application featuring a clean
 
 ## Demo
 
-You can view a live demo of this project at [Live Demo](https://your-live-demo-url.com)
+You can view a live demo of this project at Live Demo:( https://pratikchha.github.io/CDAC_WEB_ASSIGNMENT/ )
+
+## Usage
+
+*Open the App: Navigate to the URL where the app is hosted.
+*Enter Credentials: Fill in the username and password fields.
+*Submit the Form: Click the submit button to process the login (form submission details depend on implementation).
+
+## Technologies Used
+
+*HTML/CSS/JavaScript or [Your Framework/Library]
+*[Additional Libraries] (e.g., Bootstrap, Tailwind CSS, etc.)
 
 ## How to Run
 
-1. **Clone the Repository**:
+ **Clone the Repository**:
    ```sh
    git clone https://github.com/your-username/login-page-project.git
 
 
 ![login page](https://github.com/user-attachments/assets/2dcfdea2-6ec3-40df-b1eb-e3369a045ad2)
+
+

@@ -3,16 +3,18 @@
 
 ## Description
 
-The Login Page Project is a simple, responsive web application featuring a clean login form built with HTML, CSS, and JavaScript. It includes real-time validation for username/email and password fields, a show/hide password toggle. The form is connected to a mock API for authentication, providing feedback based on the login attempt.
+The Login Page Project is a simple, responsive web application featuring a clean login form built with HTML, CSS, and JavaScript. It includes real-time validation for username/email and password fields, a show/hide password toggle. The form is providing feedback based on the login attempt.
 
 ## Features
 
 - **Responsive Design**: Adapts to various screen sizes, including mobile and desktop.
 - **Form Validation**: Validates username/email and password inputs.
 - **Show/Hide Password**: Toggle password visibility using an eye icon.
-- **Mouse Hover Effect**: Sparkling animation following the cursor on hover.
-- **API Integration**: Authenticates user credentials with a mock API.
 - **Loading Spinner**: Displays during API calls to indicate processing.
+
+## Demo
+
+You can view a live demo of this project at [Live Demo](https://your-live-demo-url.com)
 
 ## How to Run
 
